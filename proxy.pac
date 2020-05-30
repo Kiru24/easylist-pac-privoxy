@@ -102,6 +102,7 @@ var blackhole = "PROXY " + blackhole_ip_port;
 // 
 // 71 rules:
 var good_da_host_JSON = { "apple.com": null,
+"twitter.com": null,
 "icloud.com": null,
 "apple-dns.net": null,
 "swcdn.apple.com": null,
